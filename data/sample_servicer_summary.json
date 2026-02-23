@@ -1,0 +1,28 @@
+{
+  "as_of_date": "2025-01-31",
+  "total_loans": 800,
+  "current_balance": 42106606.260000005,
+  "wac": 0.06967865154401783,
+  "wal_years_est": 13.805498451887502,
+  "status_dist": {
+    "Current": 0.9162,
+    "30dpd": 0.0312,
+    "60dpd": 0.0238,
+    "90dpd": 0.0175,
+    "Default": 0.0112
+  },
+  "region_dist": {
+    "UK": 0.3438,
+    "DE": 0.1638,
+    "FR": 0.1475,
+    "IT": 0.14,
+    "NL": 0.1062,
+    "ES": 0.0988
+  },
+  "product_dist": {
+    "Consumer_Unsec": 0.4525,
+    "Auto": 0.2338,
+    "Mortgage": 0.1612,
+    "SME": 0.1525
+  }
+}
