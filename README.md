@@ -26,3 +26,4 @@ From the extracted folder:
 
     python src/run_case_A.py
     python src/run_case_B.py
+    python src/run_plenti_analysis.py
