@@ -89,6 +89,33 @@
 - So for me, the process is really about moving from messy information to a structured view on collateral quality,
   downside risk, and whether the return adequately compensates for that risk.
 
+## Suppose you joined and in the first month we gave you a pool from a lender with incomplete data, limited history, and a tight timeline. How would you handle the uncertainty without slowing the team down?
+
+1) triage,
+2) what is good enough for a first decision,
+3) clear flags,
+4) parallel workstreams,
+5) no false precision.
+
+- I’d handle it in a staged way, with a strong focus on being decision-useful rather than waiting for perfect
+  information.
+
+- First, I’d quickly triage the data quality: what is reliable, what is missing, and which gaps are cosmetic versus
+  genuinely decision-critical. The key is not trying to solve everything at once, but identifying what we can trust and
+  where the main uncertainties sit.
+
+- Second, I’d build a high-level view of the pool as quickly as possible — asset type, key concentrations, borrower or
+  loan characteristics, vintage mix, arrears status, and any obvious risk pockets. Even with incomplete history, that
+  usually gives you an initial sense of what kind of exposure you are looking at.
+
+- Third, I’d run a simple but disciplined base case and a set of downside scenarios using conservative assumptions where
+  the data are weak. In that kind of situation, I think it’s better to be roughly right and explicit about uncertainty
+  than to create false precision.
+
+- And throughout, I’d make the uncertainties very clear to the team: what we know, what we don’t know, what assumptions
+  are driving the result, and what further diligence from the originator or servicer would matter most. That way, the
+  team can move quickly, but with a realistic understanding of the downside rather than false confidence.”
+
 ## Where do you think you could add value quickly here, and where would you need to ramp up?
 
 - I’d split it into two parts: where I think I could contribute quickly, and where I’d need to ramp up.
@@ -204,6 +231,21 @@
   protection, relative value, structuring, and key risks across different asset types. So the goal would be to
   contribute early, but also to ramp up in a way that is aligned with the actual investment process.
 
+## What do you think you would find hardest in this role?
+
+- I think the hardest part would be getting up the curve quickly enough on the investment-specific side while also
+  contributing early in a practical way. The quantitative side is where I’m already strongest, but this role is broader
+  than that — it also requires judgment around collateral, structuring, and how analysis should influence real
+  investment decisions.
+
+- In a new platform, that challenge is even more visible because the pace is high and there’s less separation between
+  building tools, supporting live work, and learning the commercial context. So for me, the key challenge would be
+  prioritising well: becoming useful quickly in the areas where I can already contribute, while ramping up fast on the
+  parts that are more specific to ABF investing.
+
+- I don’t see that as a reason for hesitation, but I do think it’s the main challenge — not whether I can learn it, but
+  how quickly I can build the right judgment while keeping my work immediately useful to the team.
+
 ## 5 questions to ask Enrico
 
 1) How are you thinking about the role now relative to when we first met?
@@ -218,3 +260,4 @@
    that would be useful from my side.
 
 6) When you look at candidates for this role, what are the main concerns or gaps you’re trying to get comfortable with?
+
